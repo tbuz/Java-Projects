@@ -1,0 +1,9 @@
+Hausaufgabe 5 Aufgabe 1
+
+1. inkorrekt! a verlangt nur ein Integer, nicht ein Tupel aus zweien.
+2. korrekt, die Zahlen werden vor der Ausführung addiert.
+3. korrekt, da b ein Integer zurückgibt.
+4. inkorrrekt! b verlangt ZUERST ein Integer, danach einen String.
+5. inkorrekt! a ist eine void Methode, gibt somit keinen Variablenwert zurück.
+6. korrekt, (das innere) b gibt ein Integer zurück. Das Äußere b erhält somit ein Integer und einen String.
+
