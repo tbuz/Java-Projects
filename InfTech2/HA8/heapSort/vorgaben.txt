@@ -1,0 +1,2 @@
+TestSorter.java: Quelltext mit Test-Anweisungen
+Test.class und Test$Heap.class: Testcode (benoetigt fuer TestSorter, aber nicht im Quelltext zugaenglich)

@@ -1,0 +1,16 @@
+1.
+	Preorder:
+		der-Freitag-ein-zum-guter-ist-Tag-Klausur-schreiben
+	Inorder:
+		ein-zum-Freitag-guter-der-ist-Klausur-Tag-schreiben
+	Postorder:
+		zum-ein-guter-Freitag-Klausur-schreiben-Tag-ist-der
+		
+2
+	a) h=3
+	b) Schichten 0 und 1 sind vollstaendig
+	c) weder vollstaendig noch quasivoll
+	d)	innere Knoten: 3
+		Randknoten: 6
+		Blaetter: 4
+	
